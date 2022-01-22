@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/src/common/api/MovieApiKey.js
+MovieApiKey.js
 /.pnp
 .pnp.js
 
